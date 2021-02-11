@@ -1,0 +1,260 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	background-image: url(../images/bkg3.jpg);
+
+
+}
+h1 {
+	font-size: 16px;
+	color: #0033CC;
+	line-height: 24px;
+	white-space: normal;
+}
+h2 {
+	font-size: 14px;
+	color: #333333;
+	line-height: normal;
+	white-space: normal;
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -0.03em;
+
+
+}
+.footer {
+	font-size: 10px;
+	font-weight: bold;
+}
+.date {
+	font-size: 10px;
+	font-weight: bold;
+	color: #660033;
+}
+
+a:visited {
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+a:link {
+	font-weight: normal;
+	color: #0033FF;
+	text-decoration: none;
+}
+a:hover {
+	font-weight: normal;
+	color: #003300;
+	background-color: #CCCCCC;
+}
+a:active {
+	font-weight: bold;
+}
+a.footerlink:visited {
+	color: #CCCCCC;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 5px 10px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #333333;
+
+
+
+}
+a.footerlink:link {
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-top: 1px solid #333333;
+	border-right: 1px dotted #CCCCCC;
+	border-bottom: 1px dotted #CCCCCC;
+	border-left: 1px solid #333333;
+
+
+
+
+}
+a.footerlink:hover {
+	color: #333333;
+	background-color: #CCCCCC;
+	padding: 5px 10px;
+
+}
+a.footerlink:active {
+	color: #0000FF;
+
+}
+a.menu:visited {
+	color: #333333;
+	text-decoration: none;
+	font-weight: normal;
+	padding: 5px;
+
+}
+a.menu:link {
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	padding: 5px;
+
+}
+a.menu:hover {
+	text-decoration: none;
+	background-color: #CCCCCC;
+	color: #333333;
+	padding: 5px;
+
+
+}
+a.menu:active {
+	font-weight: normal;
+	color: #FFFFFF;
+	background-color: #FF0000;
+
+
+}
+#menu {
+	color: #FFFFFF;
+	padding: 8px;
+	background-image: url(../images/bkg2.jpg);
+	font-size: 14px;
+	height: 25px;
+	width: 800px;
+	margin-right: 10%;
+	margin-left: 10%;
+
+
+
+}
+#menu2 {
+	color: #FFFFFF;
+	height: 80px;
+	background-image: url(../images/bkg.jpg);
+	width: 796px;
+	padding: 10px;
+	margin-right: 10%;
+	margin-left: 10%;
+
+
+
+
+}
+#pagefooter {
+	font-size: 9px;
+	color: #CCCCCC;
+	line-height: normal;
+	text-transform: none;
+	background-image: url(../images/bkg.jpg);
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 2px 8px;
+	width: 800px;
+
+
+}
+#pagebody {
+	background-color: #FFFFFF;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding: 8px;
+	width: 800px;
+
+
+
+}
+#header {
+	font-size: large;
+	font-weight: bold;
+	background-color: #CCCCCC;
+	width: 600px;
+
+}
+#image {
+	height: 115px;
+	width: 115px;
+	bottom: 0px;
+	margin-bottom: 0px;
+
+
+
+
+}
+#masthead {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	text-align: right;
+	width: 600px;
+	color: #FF9900;
+	font-style: normal;
+	text-transform: lowercase;
+	font-weight: bold;
+	position: absolute;
+	padding-top: 5px;
+	padding-right: 15px;
+
+}
+#masthead2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	text-align: right;
+	width: 600px;
+	color: #333333;
+	font-style: normal;
+	text-transform: lowercase;
+	font-weight: bold;
+	position: absolute;
+	padding-top: 7px;
+	padding-right: 13px;
+}
+
+#linkbox {
+	list-style-image: url(../images/arrow-org.gif);
+	border: 1px solid #333366;
+	position: absolute;
+	background-color: #EFF7F8;
+	right: 10%;
+	width: 165px;
+	padding: 0px;
+	background-image: url(../images/bkg3a.jpg);
+
+
+
+
+
+}
+
+#highlight {
+	background-color: #FFFFFF;
+	position: static;
+	z-index: 0;
+	padding: 0px 0px 0px 10px;
+	border-top-style: dashed;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+
+
+}
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+
+
+}
