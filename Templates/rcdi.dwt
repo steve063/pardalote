@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Rural Chronic Disease Inititative</title>
+<!-- TemplateEndEditable --> 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<link href="/assets/styles/stevediary.css" rel="stylesheet" type="text/css">
+<link href="/assets/styles/rcdi2.css" rel="stylesheet" type="text/css">
+</head>
+<body leftmargin="0" topmargin="0">
+<div id="banner"> 
+  <table width="100%" border="0">
+    <tr> 
+      <td width="31%"><img src="/assets/images/cmia.jpg" width="210" height="92"></td>
+      <td width="33%">&nbsp;</td>
+      <td width="36%">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<div id="vline"></div>
+<div id="linkbox"> 
+  <p> ---------------<br>
+    <a class="footerlink" href="/index2.htm">PropaGANDA Workshop</a> <br>
+    (My Business)<br>
+    --------------- <br>
+    <a class="footerlink" href="/home.htm">Genealogy</a><br>
+    <a class="footerlink" href="/home.htm">Internet Resources</a><br>
+    <a class="footerlink" href="/home.htm">Multimedia</a><br>
+    <a class="footerlink" href="/logos.htm"> </a>--------------- <br>
+    <a class="footerlink" href="mailto:steveki@iprimus.com.au">Contact Me</a><br>
+    ---------------<font face="verdana"><font size="-2"><br>
+    Visitor number<br>
+    </font> <img src="/assets/images/blurctr.gif" align="BOTTOM"
+        border="0" naturalsizeflag="3" width="90" height="20"></font> 
+  <p> </div>
+<div id="pagebody"> 
+  <div id="menu"> 
+    <p align="right" >Rural Chronic Disease Initiative | <a class="footerlink" href="/home.htm"> 
+      Home</a> | <a class="footerlink" href="/home.htm"> Contact Us</a> | <a class="footerlink" href="/home.htm"> 
+      Caution</a></p>
+  </div>
+  <!-- TemplateBeginEditable name="pagebody" --> 
+  <p>entry __ | 04.08.03</p>
+  blah blah blah blah blah b lah blah blah <a href="http://abc.net.au">blah blah 
+  blah blah blah blah bl</a>ah blah blah blah <a href="http://www.artdes.monash.edu.au" target="_blank">blah 
+  blah blah</a> blah blah blah blah b lahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh1 
+  <ul>
+    <li>one &gt;&gt;</li>
+  </ul>
+  <ol>
+    <li> 
+      <p>two</p>
+    </li>
+  </ol>
+  <h1> heading 1</h1>
+  <h2>heading 2</h2>
+  <h3>heading 3</h3>
+  <h4>heading 4</h4>
+  <p>blah blah blah blah blah blah blah blah bllah blah blah blah blah blah blah 
+    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+    blah blah blah blah blah blah blah blah blah blah blahh blah blah blah blah 
+    blah blah blah </p>
+  <p class="footer">blah blah blah blah blah blah blah </p>
+  <!-- TemplateEndEditable --> 
+  <div id="pagefooter"> 
+    <p> Rural Chronic Disease Initiative<br>
+      Australian Government <a class="footerlink" href="http://abc.net.au">Department 
+      of Health and Ageing</a><br>
+      copyright &copy; 2004 Australian Government</p>
+  </div>
+</div>
+</html>
