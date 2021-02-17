@@ -19,8 +19,10 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 <link href="../assets/styles/propagallery.css" rel="stylesheet" type="text/css">
 </head><body onLoad="initLightbox()">
 <div id="menu">  <a name="top"></a>Steve Kirkbright :: <!-- TemplateBeginEditable name="pageheading" -->TITLE<!-- TemplateEndEditable --></div>
-<div id="menu2">  <a href="../index.htm" class="footerlink">HOME</a>
-</div>
+<div id="menu2">  
+<a href="../index.htm" class="footerlink">HOME</a>
+<a href="../clients/index.htm" class="footerlink">Portfolio</a> 
+<a href="../folio/pubs.htm" class="footerlink">Publications</a></div>
 <div id="pagebody"><!-- TemplateBeginEditable name="pagebody" --> 
   <h1>Samples</h1>
   <table width="100%" border="0" cellpadding="0" cellspacing="5">
