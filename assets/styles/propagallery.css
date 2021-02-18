@@ -26,10 +26,6 @@ h2 a, h2 a:link {
 	text-transform: uppercase;
 }
 
-h2 a:visitied { color: #0CC; } 
-h2 a:hover, h2 a:active { color: #CCC; }
-
-
 .footer {
 	font-size: 10px;
 	font-weight: bold;
