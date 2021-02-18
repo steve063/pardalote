@@ -16,7 +16,7 @@ h1{
 	border-bottom-style: dotted;
 	border-bottom-color: #999999;
 }
-h2 {
+h2 a, h2 a:link {
 	font-size: 11px;
 	color: #0CC;
 	line-height: normal;
@@ -24,11 +24,10 @@ h2 {
 	font-weight: normal;
 	letter-spacing: -0.03em;
 	text-transform: uppercase;
-a {
-    color: #0CC;
-    &:hover, &:visited, &:active { color: #003300; }
- }
 }
+
+h2 a:visitied { color: #0CC; } 
+h2 a:hover, h2 a:active { color: #CCC; }
 
 
 .footer {
