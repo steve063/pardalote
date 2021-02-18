@@ -16,6 +16,15 @@ h1{
 	border-bottom-style: dotted;
 	border-bottom-color: #999999;
 }
+h2{
+	font-size: 11px;
+	color: #0CC;
+	line-height: normal;
+	white-space: normal;
+	font-weight: normal;
+	letter-spacing: -0.03em;
+	text-transform: uppercase;
+}
 h2 a, h2 a:link {
 	font-size: 11px;
 	color: #0CC;
@@ -25,6 +34,7 @@ h2 a, h2 a:link {
 	letter-spacing: -0.03em;
 	text-transform: uppercase;
 }
+
 
 .footer {
 	font-size: 10px;
