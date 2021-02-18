@@ -54,6 +54,29 @@ a:active {
 	font-weight: bold;
 	color: #CCC;
 }
+
+
+a.h2:visited {
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+}
+a.h2:link {
+	font-weight: normal;
+	color: #0033FF;
+	text-decoration: none;
+}
+a.h2:hover {
+	font-weight: normal;
+	color: #003300;
+	background-color: #CCCCCC;
+}
+a.h2:active {
+	font-weight: normal;
+	color: #0CC;
+}
+
+
 a.footerlink:visited {
 	color: #CCCCCC;
 	text-decoration: none;
