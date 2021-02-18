@@ -47,8 +47,8 @@ a:visited {
 }
 a:hover {
 	font-weight: normal;
-	color: #003300;
-	background-color: #CCCCCC;
+	color: #CCC;
+	text-decoration: underline;
 }
 a:active {
 	font-weight: bold;
@@ -62,7 +62,7 @@ a.h2:link {
 }
 a.h2:visited {
 	font-weight: normal;
-
+	color: #0CC;
 	text-decoration: none;
 }
 a.h2:hover {
@@ -72,7 +72,7 @@ a.h2:hover {
 }
 a.h2:active {
 	font-weight: normal;
-
+	color: #0CC;
 	text-decoration: underline;
 }
 
