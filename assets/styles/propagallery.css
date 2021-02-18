@@ -24,7 +24,13 @@ h2 {
 	font-weight: normal;
 	letter-spacing: -0.03em;
 	text-transform: uppercase;
+a {
+    color: #0CC;
+    &:hover, &:visited, &:active { color: #003300; }
+ }
 }
+
+
 .footer {
 	font-size: 10px;
 	font-weight: bold;
@@ -47,35 +53,13 @@ a:visited {
 }
 a:hover {
 	font-weight: normal;
-	color: #CCC;
-	text-decoration: underline;
+	color: #003300;
+	background-color: #CCCCCC;
 }
 a:active {
 	font-weight: bold;
 	color: #CCC;
 }
-
-a.h2:link {
-	font-weight: normal;
-	color: #0CC;
-	text-decoration: underline;
-}
-a.h2:visited {
-	font-weight: normal;
-	color: #0CC;
-	text-decoration: none;
-}
-a.h2:hover {
-	font-weight: normal;
-	color: #003300;
-	background-color: #CCCCCC;
-}
-a.h2:active {
-	font-weight: normal;
-	color: #0CC;
-	text-decoration: underline;
-}
-
 
 a.footerlink:visited {
 	color: #CCCCCC;
