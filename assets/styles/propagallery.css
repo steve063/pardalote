@@ -74,6 +74,7 @@ a.h2:hover {
 a.h2:active {
 	font-weight: normal;
 	color: #0CC;
+	text-decoration:underline;
 }
 
 
