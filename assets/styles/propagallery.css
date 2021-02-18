@@ -35,14 +35,14 @@ h2 {
 	color: #660033;
 }
 
-a:visited {
-	font-weight: normal;
-	color: #999999;
-	text-decoration: none;
-}
 a:link {
 	font-weight: normal;
 	color: #CCC;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: normal;
+	color: #999999;
 	text-decoration: none;
 }
 a:hover {
@@ -55,13 +55,12 @@ a:active {
 	color: #CCC;
 }
 
-
-a.h2:visited {
+a.h2:link {
 	font-weight: normal;
 	color: #0CC;
-	text-decoration: none;
+	text-decoration: underline;
 }
-a.h2:link {
+a.h2:visited {
 	font-weight: normal;
 	color: #0CC;
 	text-decoration: none;
