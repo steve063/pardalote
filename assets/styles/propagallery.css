@@ -34,7 +34,7 @@ h2 a, h2 a:link {
 	letter-spacing: -0.03em;
 	text-transform: uppercase;
 }
-h2 a:hover { color: #CCC; background-color:#033; }
+h2 a:hover { color: #CCC; background-color: #0CC; }
 
 .footer {
 	font-size: 10px;
