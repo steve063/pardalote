@@ -58,7 +58,7 @@ a:active {
 
 a.h2:visited {
 	font-weight: normal;
-	color: #999999;
+	color: #0CC;
 	text-decoration: none;
 }
 a.h2:link {
@@ -74,7 +74,7 @@ a.h2:hover {
 a.h2:active {
 	font-weight: normal;
 	color: #0CC;
-	text-decoration:underline;
+	text-decoration: underline;
 }
 
 
